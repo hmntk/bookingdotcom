@@ -1,0 +1,16 @@
+.filters {
+  /* height: 150px; */
+  width: auto;
+  position: sticky;
+  top: 0;
+  /* background-color: blueviolet; */
+}
+
+.content {
+  /* height: 150px; */
+  width: auto;
+  /* background-color: rgb(106, 70, 134); */
+}
+.contentCont {
+  margin: 40px 0;
+}

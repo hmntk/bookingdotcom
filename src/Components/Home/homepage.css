@@ -1,0 +1,72 @@
+/*.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+  display: block;
+  position: absolute;
+  left: 220px;
+  /* left: 44.25vw; */
+/* width: 50%; */
+/*}
+.react-datepicker {
+  position: absolute;
+  top: 35px;
+  left: 370px;
+}
+*/
+*:focus {
+  outline: none;
+}
+
+.formRow {
+  display: flex;
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+.react-datepicker__input-container input {
+  height: 70px;
+  word-spacing: 25px;
+}
+.formRow > input,
+.react-datepicker__input-container input {
+  background-color: white;
+  width: 100%;
+  border: 5px solid rgb(254, 187, 2);
+  border-right: 0;
+  padding: 0 25px;
+  /* padding: 0px; */
+}
+.formBtn {
+  background: rgb(0, 113, 194);
+  color: white;
+  padding: 15px 30px;
+  border: 5px solid rgb(254, 187, 2);
+}
+.col1 {
+  width: 250px;
+}
+.selectMenu {
+  display: flex;
+  width: 100%;
+  border: 5px solid rgb(254, 187, 2);
+  border-right: none;
+}
+.selectMenu select {
+  border: none;
+}
+.headingRow {
+  padding: 15px 0;
+}
+.card-title {
+  color: black;
+}
+.card6 > img {
+  height: 150px;
+  object-fit: cover;
+}
+.card5 > .card-title {
+  color: white;
+}
+.card5 {
+  margin: 15px 0;
+}

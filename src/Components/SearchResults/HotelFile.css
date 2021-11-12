@@ -1,0 +1,49 @@
+.hotelCont {
+  border: 1px solid rgb(190, 187, 187);
+  padding: 15px;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+.hotelRight {
+  text-align: right;
+  padding-right: 25px;
+}
+.hotelImg img {
+  height: 225px;
+  width: 100%;
+  border-radius: 5px;
+  object-fit: cover;
+}
+.hotelTitle {
+  color: rgb(0, 113, 194);
+  font-weight: 700;
+}
+.hotelAdd {
+  color: rgb(0, 113, 194);
+  font-weight: 500;
+  text-decoration: underline;
+}
+.reviewRow {
+  justify-content: flex-end;
+  margin-right: 20px;
+  align-items: stretch;
+}
+.fsun {
+  font-size: x-small;
+}
+.fs-6 {
+  margin: 0;
+}
+.rating {
+  background-color: rgb(0, 53, 128);
+  color: white;
+  border: none;
+  padding: 7px;
+  border-radius: 7px 7px 7px 0;
+}
+.pricing {
+  margin: 5px;
+}
+.tandc {
+  font-size: x-small;
+}

@@ -1,0 +1,50 @@
+.subscribe {
+  text-align: center;
+  background: rgb(0, 34, 79);
+  color: white;
+  padding: 50px 0;
+}
+.subEmail {
+  display: flex;
+}
+form {
+  margin: 20px;
+}
+form > input,
+form > button {
+  height: 50px;
+  margin: 5px;
+}
+form > input {
+  width: 400px;
+  padding: 20px;
+}
+.subBtn {
+  background: rgb(0, 113, 194);
+  color: white;
+  border: none;
+  padding: 0 20px;
+}
+.listing {
+  background: rgb(0, 53, 128);
+  padding: 15px 0;
+  color: white;
+  text-align: center;
+}
+.listing > button {
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  padding: 3px 5px;
+}
+.listing > h6 {
+  display: flex;
+}
+.misc {
+  padding: 20px;
+  text-align: center;
+}
+.misc p {
+  color: blue;
+  line-height: 10px;
+}

@@ -1,0 +1,55 @@
+.navRight {
+  display: flex;
+  justify-content: flex-end;
+}
+.navRight > :nth-child(n) {
+  margin: 5px;
+}
+.dot {
+  color: rgb(8, 150, 255);
+}
+.contRow {
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0 0 10px 0;
+}
+
+.main {
+  background-color: rgb(0, 53, 128);
+  align-items: center;
+  padding: 20px 20px 0;
+  justify-content: center;
+}
+h2,
+h5 {
+  color: white;
+  margin: 5px;
+  display: flex;
+  align-items: center;
+}
+.list {
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  padding: 5px;
+}
+.navElt > button {
+  background: transparent;
+  border: none;
+  color: white;
+  padding: 15px;
+  border-radius: 35px;
+  margin: 0 10px 10px 0;
+}
+.navElt :hover {
+  /* border: 1px solid; */
+  background: rgba(92, 92, 206, 0.473);
+}
+.avElt > img {
+  background: transparent;
+}
+.ath {
+  background: white;
+  color: rgb(0, 53, 128);
+  border: none;
+}

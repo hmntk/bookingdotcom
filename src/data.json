@@ -1,0 +1,973 @@
+{
+  "hotels": [
+    {
+      "location_id": "17731514",
+      "name": "Prestige Service Apartment Kondapur",
+      "latitude": "17.450674",
+      "longitude": "78.36394",
+      "num_reviews": "0",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Hyderabad, Hyderabad District, Telangana",
+      "category": "Apartments",
+      "category-ext": "3 Bedroom",
+      "comment": "Good",
+      "facilities": [
+        "Swimming pool",
+        "Free WiFi",
+        "Airport Shuttle",
+        "Parking",
+        "Fitness Center",
+        "Bar"
+      ],
+      "reasons": [
+        "Prices you can't beat",
+        "Booking is Safe",
+        "Manage bookings online",
+        "Staff speak ENglish",
+        "Great location and facilities for Couples"
+      ],
+      "reviews": [
+        {
+          "name": "Raj",
+          "review": "The service provided by Santosh from Maharashtra and Ananya was really awesome"
+        },
+        {
+          "name": "Raj",
+          "review": "Breakfast was ok not so great, it would have been still better if the concentrate on Indian guests also."
+        },
+        {
+          "name": "DK",
+          "review": "The Breakfast was very very tasty, Hyegiene and also available all kind’s of food like South, North and Middle East and The property’s Location was fantastic very very peaceful we enjoyed a lot and the guy named Utsav Pandey was who guided us was re…"
+        }
+      ],
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f9/03/85/prestige-service-apartment.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f9/03/85/prestige-service-apartment.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1280",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/f9/03/85/prestige-service-apartment.jpg",
+            "height": "960"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f9/03/85/prestige-service-apartment.jpg",
+            "height": "413"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f9/03/85/prestige-service-apartment.jpg",
+            "height": "188"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2020-02-22T09:52:37-0500",
+        "caption": "Prestige Service Apartment Kondapur",
+        "id": "452526981",
+        "helpful_votes": "0",
+        "published_date": "2020-02-22T09:52:37-0500",
+        "user": { "user_id": null, "member_id": "0", "type": "user" }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Secunderabad Places to Stay",
+      "ranking_position": "12",
+      "ranking_denominator": "163",
+      "ranking": "#12 Best Value of 163 places to stay in Secunderabad",
+      "distance": "11.464555542738722",
+      "distance_string": null,
+      "bearing": "west",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$",
+      "price": "$16 - $24",
+      "neighborhood_info": [
+        { "location_id": "13087968", "name": "Hi-tech City/Gachibowli" },
+        { "location_id": "21002067", "name": "Serilingampally" }
+      ],
+      "hotel_class": "0.0",
+      "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+      "special_offers": { "desktop": [], "mobile": [] },
+      "listing_key": "5dbb7307-66e0-4939-a970-94088b5a1b82"
+    },
+    {
+      "location_id": "10255950",
+      "name": "Ibis Hyderabad HITEC City Hotel",
+      "latitude": "17.447561",
+      "longitude": "78.37867",
+      "num_reviews": "502",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Hyderabad, Hyderabad District, Telangana",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/e6/67/40/exterior-view.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/e6/67/40/exterior-view.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/e6/67/40/exterior-view.jpg",
+            "height": "768"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/e6/67/40/exterior-view.jpg",
+            "height": "413"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/e6/67/40/exterior-view.jpg",
+            "height": "188"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-04-25T01:23:59-0400",
+        "caption": "Exterior view",
+        "id": "484861760",
+        "helpful_votes": "0",
+        "published_date": "2021-04-25T01:23:59-0400",
+        "user": null
+      },
+      "awards": [
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2021",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2021"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2020",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2020"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2019",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2019"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2018",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2018"
+        }
+      ],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Secunderabad Places to Stay",
+      "raw_ranking": "4.710809230804443",
+      "ranking_geo": "Hyderabad",
+      "ranking_geo_id": "297586",
+      "ranking_position": "1",
+      "ranking_denominator": "163",
+      "ranking_category": "hotel",
+      "ranking": "#1 Best Value of 163 places to stay in Secunderabad",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "10.493321606903969",
+      "distance_string": null,
+      "bearing": "west",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$",
+      "price": "$62 - $93",
+      "neighborhood_info": [
+        { "location_id": "13087968", "name": "Hi-tech City/Gachibowli" }
+      ],
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Accor Hotels.",
+      "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+      "special_offers": { "desktop": [], "mobile": [] },
+      "listing_key": "3637a210-e12f-4242-b4cb-f2c8cf54b1d7"
+    },
+    {
+      "location_id": "2322506",
+      "name": "Radisson Hyderabad Hitec City",
+      "latitude": "17.447561",
+      "longitude": "78.362946",
+      "num_reviews": "2591",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Hyderabad, Hyderabad District, Telangana",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/eb/16/92/executive-suite.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/eb/16/92/executive-suite.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/eb/16/92/executive-suite.jpg",
+            "height": "512"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/eb/16/92/executive-suite.jpg",
+            "height": "275"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/eb/16/92/executive-suite.jpg",
+            "height": "125"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-04-30T01:33:48-0400",
+        "caption": "Executive Suite",
+        "id": "485168786",
+        "helpful_votes": "0",
+        "published_date": "2021-04-30T01:33:48-0400",
+        "user": null
+      },
+      "awards": [
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2021",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2021"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2020",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2020"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2019",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2019"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2018",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2018"
+        }
+      ],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Secunderabad Places to Stay",
+      "raw_ranking": "4.541522979736328",
+      "ranking_geo": "Hyderabad",
+      "ranking_geo_id": "297586",
+      "ranking_position": "2",
+      "ranking_denominator": "163",
+      "ranking_category": "hotel",
+      "ranking": "#2 Best Value of 163 places to stay in Secunderabad",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "11.530829337092056",
+      "distance_string": null,
+      "bearing": "west",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$72 - $120",
+      "neighborhood_info": [
+        { "location_id": "13087968", "name": "Hi-tech City/Gachibowli" },
+        { "location_id": "21002067", "name": "Serilingampally" }
+      ],
+      "hotel_class": "5.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=CarlsonRadisson_BA&src=213355132&geo=2322506&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=41311&bucket=947818&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=215794662&managed=false&capped=false&gosox=2afBke2oyOgyG0EnpWzKOOgjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZg0rGTayEueltm1pBmWiy4bAk0MSlVhtmoYQfCjjyLwM&dated=true&bapid=1&cs=12f84e32721fc2ca1e55c20f9bf30058f",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": { "desktop": [], "mobile": [] },
+      "listing_key": "d0486448-7aa8-4c6e-b39d-4127c4ebc3dd"
+    },
+    {
+      "location_id": "13451294",
+      "name": "Marriott Executive Apartments Hyderabad",
+      "latitude": "17.452427",
+      "longitude": "78.36309",
+      "num_reviews": "372",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Hyderabad, Hyderabad District, Telangana",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/e6/6a/8a/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/e6/6a/8a/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/e6/6a/8a/exterior.jpg",
+            "height": "2667"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/e6/6a/8a/exterior.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/e6/6a/8a/exterior.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-04-25T01:30:53-0400",
+        "caption": "Exterior",
+        "id": "484862602",
+        "helpful_votes": "0",
+        "published_date": "2021-04-25T01:30:53-0400",
+        "user": null
+      },
+      "awards": [
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2021",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2021"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2020",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2020"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2019",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2019"
+        }
+      ],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Secunderabad Places to Stay",
+      "raw_ranking": "4.7631964683532715",
+      "ranking_geo": "Hyderabad",
+      "ranking_geo_id": "297586",
+      "ranking_position": "4",
+      "ranking_denominator": "163",
+      "ranking_category": "hotel",
+      "ranking": "#4 Best Value of 163 places to stay in Secunderabad",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "11.521741088178793",
+      "distance_string": null,
+      "bearing": "west",
+      "rating": "5.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$92 - $306",
+      "neighborhood_info": [
+        { "location_id": "13087968", "name": "Hi-tech City/Gachibowli" },
+        { "location_id": "21002067", "name": "Serilingampally" }
+      ],
+      "hotel_class": "4.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183959638&geo=13451294&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=215794662&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZprh6kQ3vhItq_GLr4o3eyOAVbwMrw4FVXloPrIFPuqk&dated=true&bapid=1&cs=1eb748d59fae5a1fdd35cdbbed2ab11a3",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Unlock Member Rates!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.13451294-a_offer.8513203-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183959638&geo=13451294&from=api&area=OID:8513203%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=215794662&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkQJwO9qXittalDBRLxTh6tt6cRSLm9mFvdpkZS1cyhFMadEE6FlzCi8DldtBPvmEpQ&cs=1073a582093b818b8241ea0cd768a9929"
+          }
+        ]
+      },
+      "listing_key": "6a134206-d988-46e5-8625-7d6a63db981e"
+    },
+    {
+      "location_id": "2554713",
+      "name": "Trident Hyderabad",
+      "latitude": "17.449383",
+      "longitude": "78.37891",
+      "num_reviews": "2179",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Hyderabad, Hyderabad District, Telangana",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/54/db/93/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/54/db/93/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2048",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/54/db/93/exterior.jpg",
+            "height": "1365"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/54/db/93/exterior.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/54/db/93/exterior.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2019-04-29T02:11:58-0400",
+        "caption": "Exterior",
+        "id": "391437203",
+        "helpful_votes": "1",
+        "published_date": "2019-04-29T02:11:58-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Secunderabad Places to Stay",
+      "raw_ranking": "4.825103282928467",
+      "ranking_geo": "Hyderabad",
+      "ranking_geo_id": "297586",
+      "ranking_position": "8",
+      "ranking_denominator": "163",
+      "ranking_category": "hotel",
+      "ranking": "#8 Best Value of 163 places to stay in Secunderabad",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "10.476657376638437",
+      "distance_string": null,
+      "bearing": "west",
+      "rating": "5.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$111 - $242",
+      "neighborhood_info": [
+        { "location_id": "13087968", "name": "Hi-tech City/Gachibowli" }
+      ],
+      "hotel_class": "5.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+      "special_offers": { "desktop": [], "mobile": [] },
+      "listing_key": "e9afc9b9-fb77-4ca1-a9ff-cbabcf620363"
+    },
+    {
+      "location_id": "8436940",
+      "name": "Prestige Service Apartments",
+      "latitude": "17.445284",
+      "longitude": "78.38117",
+      "num_reviews": "8",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Hyderabad, Hyderabad District, Telangana",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/f3/50/f0/img-20160702-wa0007-largejpg.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/f3/50/f0/img-20160702-wa0007-largejpg.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "960",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/f3/50/f0/img-20160702-wa0007-largejpg.jpg",
+            "height": "1280"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-p/0b/f3/50/f0/img-20160702-wa0007-largejpg.jpg",
+            "height": "733"
+          },
+          "medium": {
+            "width": "337",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/f3/50/f0/img-20160702-wa0007-largejpg.jpg",
+            "height": "450"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2016-07-13T10:11:15-0400",
+        "caption": "",
+        "id": "200495344",
+        "helpful_votes": "0",
+        "published_date": "2016-07-13T10:11:15-0400",
+        "user": { "user_id": null, "member_id": "0", "type": "user" }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Secunderabad Places to Stay",
+      "raw_ranking": "3.104834794998169",
+      "ranking_geo": "Hyderabad",
+      "ranking_geo_id": "297586",
+      "ranking_position": "10",
+      "ranking_denominator": "163",
+      "ranking_category": "other",
+      "ranking": "#10 Best Value of 163 places to stay in Secunderabad",
+      "subcategory_type": "condo",
+      "subcategory_type_label": "Condominium",
+      "distance": "10.331710885106942",
+      "distance_string": null,
+      "bearing": "west",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$",
+      "price": "$52 - $62",
+      "neighborhood_info": [
+        { "location_id": "13087968", "name": "Hi-tech City/Gachibowli" }
+      ],
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+      "special_offers": { "desktop": [], "mobile": [] },
+      "listing_key": "42632bff-2572-4e4d-998f-0eb0bb90e050"
+    },
+    {
+      "location_id": "4697037",
+      "name": "Serenity La Vista",
+      "latitude": "17.45343",
+      "longitude": "78.38271",
+      "num_reviews": "13",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Hyderabad, Hyderabad District, Telangana",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/05/12/f6/90/la-vista.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/05/12/f6/90/la-vista.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "640",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/05/12/f6/90/la-vista.jpg",
+            "height": "427"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/05/12/f6/90/la-vista.jpg",
+            "height": "366"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/05/12/f6/90/la-vista.jpg",
+            "height": "166"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2013-11-28T07:30:51-0500",
+        "caption": "",
+        "id": "85128848",
+        "helpful_votes": "1",
+        "published_date": "2013-11-28T07:30:51-0500",
+        "user": { "user_id": null, "member_id": "0", "type": "user" }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Secunderabad Places to Stay",
+      "raw_ranking": "3.1186983585357666",
+      "ranking_geo": "Hyderabad",
+      "ranking_geo_id": "297586",
+      "ranking_position": "15",
+      "ranking_denominator": "163",
+      "ranking_category": "bb",
+      "ranking": "#15 Best Value of 163 places to stay in Secunderabad",
+      "subcategory_type": "small_hotel",
+      "subcategory_type_label": "Small Hotel",
+      "distance": "10.228591349703782",
+      "distance_string": null,
+      "bearing": "west",
+      "rating": "4.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$",
+      "price": "$36 - $46",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+      "special_offers": { "desktop": [], "mobile": [] },
+      "listing_key": "a8c1c326-a371-4a13-9c1e-f185de622401"
+    },
+    {
+      "location_id": "7277458",
+      "name": "The Lime Boutique Suites",
+      "latitude": "17.450628",
+      "longitude": "78.36267",
+      "num_reviews": "101",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Hyderabad, Hyderabad District, Telangana",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/32/2d/a3/the-lime-boutique-suites.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/32/2d/a3/the-lime-boutique-suites.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/32/2d/a3/the-lime-boutique-suites.jpg",
+            "height": "1334"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/32/2d/a3/the-lime-boutique-suites.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/32/2d/a3/the-lime-boutique-suites.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2015-01-14T00:41:35-0500",
+        "caption": "XL ROOM",
+        "id": "120728995",
+        "helpful_votes": "2",
+        "published_date": "2015-01-14T00:41:35-0500",
+        "user": { "user_id": null, "member_id": "0", "type": "user" }
+      },
+      "awards": [
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2016",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2016"
+        }
+      ],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Secunderabad Places to Stay",
+      "raw_ranking": "3.3639872074127197",
+      "ranking_geo": "Hyderabad",
+      "ranking_geo_id": "297586",
+      "ranking_position": "16",
+      "ranking_denominator": "163",
+      "ranking_category": "bb",
+      "ranking": "#16 Best Value of 163 places to stay in Secunderabad",
+      "subcategory_type": "small_hotel",
+      "subcategory_type_label": "Small Hotel",
+      "distance": "11.548108277175741",
+      "distance_string": null,
+      "bearing": "west",
+      "rating": "4.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$",
+      "price": "$39 - $56",
+      "neighborhood_info": [
+        { "location_id": "13087968", "name": "Hi-tech City/Gachibowli" }
+      ],
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+      "special_offers": { "desktop": [], "mobile": [] },
+      "listing_key": "dd08f2c4-0298-4f08-aa4b-7066da61ac6c"
+    },
+    {
+      "location_id": "6961213",
+      "name": "Skyla Serviced Apartments Gachibowli",
+      "latitude": "17.446613",
+      "longitude": "78.36214",
+      "num_reviews": "9",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Hyderabad, Hyderabad District, Telangana",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/8a/2c/48/outside-view.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/8a/2c/48/outside-view.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1632",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/8a/2c/48/outside-view.jpg",
+            "height": "1088"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/8a/2c/48/outside-view.jpg",
+            "height": "366"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/0a/8a/2c/48/outside-view.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2016-03-09T04:41:43-0500",
+        "caption": "Executive Room",
+        "id": "176827464",
+        "helpful_votes": "0",
+        "published_date": "2016-03-09T04:42:56-0500",
+        "user": { "user_id": null, "member_id": "0", "type": "user" }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Secunderabad Places to Stay",
+      "raw_ranking": "3.1262428760528564",
+      "ranking_geo": "Hyderabad",
+      "ranking_geo_id": "297586",
+      "ranking_position": "18",
+      "ranking_denominator": "163",
+      "ranking_category": "other",
+      "ranking": "#18 Best Value of 163 places to stay in Secunderabad",
+      "subcategory_type": "condo",
+      "subcategory_type_label": "Condominium",
+      "distance": "11.585236318806356",
+      "distance_string": null,
+      "bearing": "west",
+      "rating": "4.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$",
+      "price": "$41 - $51",
+      "neighborhood_info": [
+        { "location_id": "13087968", "name": "Hi-tech City/Gachibowli" }
+      ],
+      "hotel_class": "0.0",
+      "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+      "special_offers": { "desktop": [], "mobile": [] },
+      "listing_key": "44fa37e1-046b-4a41-af56-715bbc30ce8b"
+    },
+    {
+      "location_id": "23334587",
+      "name": "Blue Ridge Hotel",
+      "latitude": "17.447878",
+      "longitude": "78.355125",
+      "num_reviews": "0",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Hyderabad, Hyderabad District, Telangana",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/1d/01/73/3d/7080712.jpg",
+            "height": "137"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/1d/01/73/3d/7080712.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "840",
+            "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/1d/01/73/3d/7080712.jpg",
+            "height": "460"
+          },
+          "large": {
+            "width": "840",
+            "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/1d/01/73/3d/7080712.jpg",
+            "height": "460"
+          },
+          "medium": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/1d/01/73/3d/7080712.jpg",
+            "height": "301"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-05-21T00:00:00-0400",
+        "caption": "Blue Ridge Hotel",
+        "id": "486634301",
+        "helpful_votes": "0",
+        "published_date": "2021-05-21T00:00:00-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Secunderabad Places to Stay",
+      "ranking_position": "24",
+      "ranking_denominator": "163",
+      "ranking": "#24 Best Value of 163 places to stay in Secunderabad",
+      "distance": "12.046563153840093",
+      "distance_string": null,
+      "bearing": "west",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "",
+      "neighborhood_info": [
+        { "location_id": "13087968", "name": "Hi-tech City/Gachibowli" }
+      ],
+      "hotel_class": "0.0",
+      "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+      "special_offers": { "desktop": [], "mobile": [] },
+      "listing_key": "e59a2e67-c56a-4e31-9142-7e9dadc186ce"
+    },
+    {
+      "location_id": "12136091",
+      "name": "OYO 12237 Luxury Villas",
+      "latitude": "17.445816",
+      "longitude": "78.470055",
+      "num_reviews": "0",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Hyderabad, Hyderabad District, Telangana",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/b6/13/a3/oyo-12237-royal-suite.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/b6/13/a3/oyo-12237-royal-suite.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "960",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/b6/13/a3/oyo-12237-royal-suite.jpg",
+            "height": "640"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/b6/13/a3/oyo-12237-royal-suite.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/b6/13/a3/oyo-12237-royal-suite.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2019-05-29T05:40:33-0400",
+        "caption": "",
+        "id": "397808547",
+        "helpful_votes": "0",
+        "published_date": "2019-05-29T05:40:33-0400",
+        "user": { "user_id": null, "member_id": "0", "type": "user" }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Secunderabad Places to Stay",
+      "ranking_position": "30",
+      "ranking_denominator": "163",
+      "ranking": "#30 Best Value of 163 places to stay in Secunderabad",
+      "distance": "4.470060524374674",
+      "distance_string": null,
+      "bearing": "west",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$",
+      "price": "$12 - $60",
+      "hotel_class": "0.0",
+      "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+      "special_offers": { "desktop": [], "mobile": [] },
+      "listing_key": "92b95a84-1a58-42ac-89f7-09cc6b629538"
+    }
+  ]
+}
