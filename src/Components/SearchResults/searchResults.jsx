@@ -7,7 +7,7 @@ import SortingByAmount from "./Filters/sortbyPrice";
 import PaymentButtons from "./Filters/sortbyType";
 import HotelFile from "./HotelFile";
 import axios from "axios";
-import hotel from "./hotel.json";
+// import hotel from "./hotel.json";
 
 function SearchResults() {
   //axios - data will come
